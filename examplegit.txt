@@ -1,1 +1,8 @@
 hellog
+test of what i did
+git init 
+git remote add orgin url 
+git status 
+git add example 
+git commit 
+git push origin main
